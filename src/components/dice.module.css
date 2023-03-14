@@ -1,0 +1,16 @@
+.dice {
+  background: white;
+  border-radius: 25px;
+  border: 5px solid white;
+  margin: 0 1%;
+  margin-top: 2%;
+  width: 15%;
+}
+
+.selected {
+  border: 5px rgb(64, 64, 64) solid;
+}
+
+.noselected:hover {
+  border-color: gray;
+}

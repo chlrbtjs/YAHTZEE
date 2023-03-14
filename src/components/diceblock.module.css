@@ -1,0 +1,20 @@
+.diceandbutton {
+  background: #ffe4c4;
+  border: solid black;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+}
+
+.rollthree {
+  background: #b6a38c;
+}
+
+.diceblock {
+  height: 100%;
+  padding: 100px;
+}
+
+.rerollbutton {
+  margin: 1%;
+}

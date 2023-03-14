@@ -1,0 +1,34 @@
+.table {
+  color: black;
+  background: #ffe4c4;
+  width: 60vw;
+  height: 60vh;
+  border: black solid;
+  margin: 0 auto;
+}
+
+.cell {
+  border: solid;
+  width: 23%;
+  height: 12%;
+}
+
+.unfilled:hover {
+  background-color: #fff0d0;
+}
+
+.bottomblank {
+  height: 5%;
+}
+
+.middleblank {
+  width: 3%;
+}
+
+.filled {
+  background-color: #d8ccb1;
+}
+
+.pointtable {
+  height: 100%;
+}
